@@ -1,0 +1,48 @@
+[
+  {
+    "numero": 0,
+    "name": "ABBRACCIAMI",
+    "link": {
+      "default": "ABBRACCIAMI/abbracciami.json",
+      "breve": "ABBRACCIAMI/abbracciami_breve.json"
+    },
+    "audio": {
+      "full": "ABBRACCIAMI/AUDIO/ABBRACCIAMI.aac"
+    }
+  },
+  {
+    "numero": 1,
+    "name": "CHIAMATI PER NOME",
+    "link": {
+      "default": "CHIAMATI PER NOME/chiamati-per-nome.json"
+    }
+  },
+  {
+    "numero": 2,
+    "name": "NUOVO",
+    "link": {
+      "default": "NUOVO/nuovo.json"
+    }
+  },
+  {
+    "numero": 3,
+    "name": "NUOVO",
+    "link": {
+      "default": "NUOVO/nuovo.json"
+    }
+  },
+  {
+    "numero": 4,
+    "name": "OGGI TI CHIAMO",
+    "link": {
+      "default": "OGGI TI CHIAMO/oggi-ti-chiamo.json"
+    }
+  },
+  {
+    "numero": 5,
+    "name": "ZZZ canto",
+    "link": {
+      "default": "canto/canto.json"
+    }
+  }
+]
